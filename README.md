@@ -23,27 +23,19 @@
 </h2>
 
 <h3>Year One:</h3>
-
-■ VCD-206: Web Design I
-
-■ SYS-140: Systems Fundamentals
-
-■ NET-150: Network Fundamentals
-
-■ CSI-160: Python Programming
-
-■ NET-215: Network Protocols
-
-■ SEC-250-04: Computer & Network Security
+<p>
+■ VCD-206: Web Design I </br>
+■ SYS-140: Systems Fundamentals </br>
+■ NET-150: Network Fundamentals </br>
+■ CSI-160: Python Programming </br>
+■ NET-215: Network Protocols </br>
+■ SEC-250-04: Computer & Network Security </br>
+</p>
 
 <h3>Year Two:</h3>
 
-■ SYS-255: Sysadmin & Net Services I
-
-■ SYS-265: Sysadmin & Net Services II
-
-■ SEC-260: Web and Applications Security
-
-■ SYS-320: Automation and Scripting
-
-■ CSI-260: Advanced Python 
+■ SYS-255: Sysadmin & Net Services I </br>
+■ SYS-265: Sysadmin & Net Services II </br>
+■ SEC-260: Web and Applications Security </br>
+■ SYS-320: Automation and Scripting </br>
+■ CSI-260: Advanced Python </br>
