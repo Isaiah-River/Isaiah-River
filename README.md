@@ -10,10 +10,11 @@
 
 <p>
   My name is Isaiah River, I am a cybersecurity student attending Champlain College. My hobbies include:
-  * 🎨 Art & graphic design
-  * 🎵 Bass guitar & ukulele
-  * ⛏️ Minecraft
 </p>
+  • 🎨 Art & graphic design
+  • 🎵 Bass guitar & ukulele
+  • ⛏️ Minecraft
+
 
 <!-- Personal Projects -->
 <h2>
