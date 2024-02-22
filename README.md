@@ -9,7 +9,7 @@
 </h2>
 
 <p>
-  My name is Isaiah River, I am a cybersecurity student attending Champlain College.
+  My name is Isaiah River, I am a cybersecurity student attending Champlain College. I'm an artist, musician, and avid Minecraft player.
 </p>
 
 <!-- Personal Projects -->
