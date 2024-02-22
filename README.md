@@ -24,7 +24,7 @@
 
 <h3>Year One:</h3>
 
-■ VCD-206L: Web Design I
+■ VCD-206: Web Design I
 
 ■ SYS-140: Systems Fundamentals
 
