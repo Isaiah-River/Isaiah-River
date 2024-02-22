@@ -8,6 +8,10 @@
   About Me
 </h2>
 
+<p>
+  My name is Isaiah River, I am a cybersecurity student attending Champlain College.
+</p>
+
 <!-- Personal Projects -->
 <h2>
   Personal projects
