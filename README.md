@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1 align="center"; >
-  Welcome to my GitHub. <img src="https://i.imgur.com/Xn95Tdh.png";>
+  Welcome to my GitHub. <img src="https://i.imgur.com/I5Z7Sp0.png";>
 </h1>
 
 <!-- About Me -->
