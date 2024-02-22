@@ -9,11 +9,11 @@
 </h2>
 
 <p>
-  My name is Isaiah River, I am a cybersecurity student attending Champlain College. My hobbies include:
+  My name is Isaiah River, I am a cybersecurity student attending Champlain College. My hobbies include: <br>
+  • 🎨 Art & graphic design <br>
+  • 🎵 Bass guitar & ukulele <br>
+  • ⛏️ Minecraft <br>
 </p>
-  • 🎨 Art & graphic design
-  • 🎵 Bass guitar & ukulele
-  • ⛏️ Minecraft
 
 
 <!-- Personal Projects -->
