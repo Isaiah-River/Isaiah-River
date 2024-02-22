@@ -5,7 +5,7 @@
 
 <!-- About Me -->
 <h2>
-  About Me
+  ❓ About Me
 </h2>
 
 <p>
@@ -14,12 +14,12 @@
 
 <!-- Personal Projects -->
 <h2>
-  Personal projects
+  🏗️ Personal projects
 </h2>
 
 <!-- Noteable Classes -->
 <h2>
-  Noteable Classes
+  🖋️ Noteable Classes
 </h2>
 
 <h3>Year One:</h3>
