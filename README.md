@@ -29,7 +29,7 @@
 ☐ NET-150: Network Fundamentals </br>
 ☐ CSI-160: Python Programming </br>
 ☐ NET-215: Network Protocols </br>
-☐ SEC-250-04: Computer & Network Security </br>
+☐ SEC-250: Computer & Network Security </br>
 </p>
 
 <h3>Year Two:</h3>
