@@ -5,7 +5,7 @@
 
 <!-- About Me -->
 <h2>
-  ❓ About Me
+  ❓ About Me:
 </h2>
 
 <p>
@@ -20,12 +20,16 @@
 
 <!-- Personal Projects -->
 <h2>
-  🏗️ Personal projects
+  🏗️ Personal projects:
 </h2>
+<p>
+  • <img src=https://i.imgur.com/i9iA1U5.png> Currently revamping my GitHub
+</p>
+
 
 <!-- Noteable Classes -->
 <h2>
-  🖥️ Noteable Classes
+  🖥️ Noteable Classes:
 </h2>
 
 <h3>Year One:</h3>
@@ -48,6 +52,10 @@
 
 
 <!-- Tech Stack -->
+<h2>
+  👨‍💻 Tech Stack:
+</h2>
+
 ![Windows](https://img.shields.io/badge/Windows%20-%20Windows?style=for-the-badge&logo=windows&logoColor=Red&color=%23357EC7)
 ![CentOS](https://img.shields.io/badge/CentOS%20-%20CentOS?style=for-the-badge&logo=centos&color=%23262577)
 ![macOS](https://img.shields.io/badge/mac%20OS%20-%20mac%20OS?style=for-the-badge&logo=macos&color=%23000)
