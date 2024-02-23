@@ -44,3 +44,9 @@
 ☐ SEC-260: Web and Applications Security </br>
 ☐ SYS-320: Automation and Scripting </br>
 ☐ CSI-260: Advanced Python </br>
+
+
+<!-- Tech Stack -->
+![Windows](https://img.shields.io/badge/Windows%20-%20Windows?style=for-the-badge&logo=windows&logoColor=Red&color=%23357EC7)
+![CentOS](https://img.shields.io/badge/CentOS%20-%20CentOS?style=for-the-badge&logo=centos&color=%23252525)
+
