@@ -68,6 +68,8 @@
 ![Ansible](https://img.shields.io/badge/Ansible%20-%20Ansible?style=for-the-badge&logo=ansible&logoColor=%23fff&color=%23EE0000)
 ![Rainmeter](https://img.shields.io/badge/Rainmeter%20-%20Rainmeter?style=for-the-badge&logo=rainmeter&logoColor=%23fff&color=%2319519B)
 ![Aseprite](https://img.shields.io/badge/Aseprite%20-%20Aseprite?style=for-the-badge&logo=aseprite&logoColor=%23fff&color=%237D929E)
+![Blender](https://img.shields.io/badge/Blender%20-%20Blender?style=for-the-badge&logo=blender&logoColor=%23fff&color=%23E87D0D)
+
 
 
 
