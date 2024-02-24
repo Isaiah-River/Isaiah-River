@@ -23,7 +23,7 @@
   🏗️ Personal projects:
 </h2>
 <p>
-  • <img src=https://i.imgur.com/i9iA1U5.png> Currently revamping my GitHub
+  • <img src=https://i.imgur.com/iiHw6Kz.png> Currently revamping my GitHub
 </p>
 
 
