@@ -83,9 +83,36 @@
 ![PHP](https://img.shields.io/badge/PHP%20-%20PHP?style=for-the-badge&logo=php&logoColor=%23FFF&color=%23777BB4)
 ![YAML](https://img.shields.io/badge/YAML%20-%20YAML?style=for-the-badge&logo=yaml&logoColor=%23FFF&color=%23CB171E)
 
+<!-- Commented out for now
+<p align="center";>
+  <img src="https://img.shields.io/badge/Windows%20-%20Windows?style=for-the-badge&logo=windows&logoColor=Red&color=%23357EC7";>
+  <img src="https://img.shields.io/badge/CentOS%20-%20CentOS?style=for-the-badge&logo=centos&color=%23262577";>
+  <img src="https://img.shields.io/badge/mac%20OS%20-%20mac%20OS?style=for-the-badge&logo=macos&color=%23000";>
+  <img src="https://img.shields.io/badge/Ubuntu%20-%20Ubuntu?style=for-the-badge&logo=ubuntu&logoColor=%23fff&color=%23E95420";>
+  <img src="https://img.shields.io/badge/Python%20-%20Python?style=for-the-badge&logo=python&logoColor=%23dddd00&color=%233776AB";>
+  <img src="https://img.shields.io/badge/HTML5%20-%20HTML5?style=for-the-badge&logo=html5&logoColor=%23fff&color=%23E34F26";>
+  <img src="https://img.shields.io/badge/CSS3%20-%20CSS3?style=for-the-badge&logo=css3&logoColor=%23fff&color=%231572B6";>
+  <img src="https://img.shields.io/badge/Windows%20Terminal%20-%20Windows%20Terminal?style=for-the-badge&logo=windowsterminal&color=%234D4D4D";>
+  <img src="https://img.shields.io/badge/Markdown%20-%20Markdown?style=for-the-badge&logo=markdown&color=%23000000";>
+  <img src="https://img.shields.io/badge/Docker%20-%20Docker?style=for-the-badge&logo=apache&logoColor=%23fff&color=%23D22128";>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop%20-%20Adobe%20Photoshop?style=for-the-badge&logo=adobephotoshop&logoColor=%23FFF&color=%2331A8FF";>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator%20-%20Adobe%20Illustrator?style=for-the-badge&logo=adobeillustrator&logoColor=%23fff&color=%23FF9A00";>
+  <img src="https://img.shields.io/badge/Adobe%20InDesign%20-%20Adobe%20InDesign?style=for-the-badge&logo=adobeindesign&logoColor=%23fff&color=%23FF3366";>
+  <img src="https://img.shields.io/badge/Adobe%20XD%20-%20Adobe%20XD?style=for-the-badge&logo=adobexd&logoColor=%23fff&color=%23FF61F6";>
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom%20-%20Adobe%20Lightroom?style=for-the-badge&logo=adobexd&logoColor=%23fff&color=%2331A8FF";>
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects%20-%20Adobe%20After%20Effects?style=for-the-badge&logo=adobeaftereffects&logoColor=%23fff&color=%239999FF";>
+  <img src="https://img.shields.io/badge/Adobe%20Dreamweaver%20-%20Adobe%20Dreamweaver?style=for-the-badge&logo=adobedreamweaver&logoColor=%23fff&color=%23FF61F6";>
+  <img src="https://img.shields.io/badge/Docker%20-%20Docker?style=for-the-badge&logo=docker&logoColor=%23fff&color=%232496ED";>
+  <img src="https://img.shields.io/badge/Ansible%20-%20Ansible?style=for-the-badge&logo=ansible&logoColor=%23fff&color=%23EE0000";>
+  <img src="https://img.shields.io/badge/Rainmeter%20-%20Rainmeter?style=for-the-badge&logo=rainmeter&logoColor=%23fff&color=%2319519B";>
+  <img src="https://img.shields.io/badge/Aseprite%20-%20Aseprite?style=for-the-badge&logo=aseprite&logoColor=%23fff&color=%237D929E";>
+  <img src="https://img.shields.io/badge/Aseprite%20-%20Aseprite?style=for-the-badge&logo=aseprite&logoColor=%23fff&color=%237D929E";>
+  <img src="https://img.shields.io/badge/Blender%20-%20Blender?style=for-the-badge&logo=blender&logoColor=%23fff&color=%23E87D0D";>
+  <img src="https://img.shields.io/badge/PHP%20-%20PHP?style=for-the-badge&logo=php&logoColor=%23FFF&color=%23777BB4";>
+  <img src="https://img.shields.io/badge/YAML%20-%20YAML?style=for-the-badge&logo=yaml&logoColor=%23FFF&color=%23CB171E">
+</p>
 
-
-
+-->
 
 
 
