@@ -34,14 +34,14 @@
 </h2>
 
 <h3>Year One:</h3>
-<p>
+
 - [x] VCD-206: Web Design I </br>
 - [x] SYS-140: Systems Fundamentals </br>
 - [x] NET-150: Network Fundamentals </br>
 - [x] CSI-160: Python Programming </br>
 - [x] NET-215: Network Protocols </br>
 - [x] SEC-250: Computer & Network Security </br>
-</p>
+
 
 <h3>Year Two:</h3>
 
