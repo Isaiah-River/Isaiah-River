@@ -25,6 +25,7 @@
 </h2>
 <p>
   • <img src=https://i.imgur.com/iiHw6Kz.png> Currently revamping my GitHub
+  • 📝 Currently making it through midterms
 </p>
 
 
@@ -82,6 +83,10 @@
 ![Blender](https://img.shields.io/badge/Blender%20-%20Blender?style=for-the-badge&logo=blender&logoColor=%23fff&color=%23E87D0D)
 ![PHP](https://img.shields.io/badge/PHP%20-%20PHP?style=for-the-badge&logo=php&logoColor=%23FFF&color=%23777BB4)
 ![YAML](https://img.shields.io/badge/YAML%20-%20YAML?style=for-the-badge&logo=yaml&logoColor=%23FFF&color=%23CB171E)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux%20-%20Rocky%20Linux?style=for-the-badge&logo=rockylinux&logoColor=%23fff&color=%2310B981)
+![Git](https://img.shields.io/badge/Rocky%20Linux%20-%20Rocky%20Linux?style=for-the-badge&logo=git&logoColor=%23fff&color=%23F05032)
+
+
 
 <!-- Commented out for now
 <p align="center";>
@@ -110,6 +115,10 @@
   <img src="https://img.shields.io/badge/Blender%20-%20Blender?style=for-the-badge&logo=blender&logoColor=%23fff&color=%23E87D0D";>
   <img src="https://img.shields.io/badge/PHP%20-%20PHP?style=for-the-badge&logo=php&logoColor=%23FFF&color=%23777BB4";>
   <img src="https://img.shields.io/badge/YAML%20-%20YAML?style=for-the-badge&logo=yaml&logoColor=%23FFF&color=%23CB171E">
+  <img src="https://img.shields.io/badge/Rocky%20Linux%20-%20Rocky%20Linux?style=for-the-badge&logo=rockylinux&logoColor=%23fff&color=%2310B981">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Rocky%20Linux%20-%20Rocky%20Linux?style=for-the-badge&logo=git&logoColor=%23fff&color=%23F05032">
+
+
 </p>
 
 -->
