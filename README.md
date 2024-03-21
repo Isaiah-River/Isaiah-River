@@ -25,7 +25,6 @@
 </h2>
 <p>
   • <img src=https://i.imgur.com/iiHw6Kz.png> Currently revamping my GitHub <br>
-  • 📝 Currently making it through midterms
 </p>
 
 
