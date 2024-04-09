@@ -25,7 +25,7 @@
 </h2>
 <p>
   • <img src=https://i.imgur.com/iiHw6Kz.png> Currently revamping my GitHub <br>
-  • 🌐 Developing a [digital humanities webpage](https://inaccessibility-at-champlain.tumblr.com/) for my COR-304 class<br>
+  • 🌐 Developing a <a href="https://inaccessibility-at-champlain.tumblr.com/">digital humanities webpage</a> for my COR-304 class<br>
   • 🔍 Developing a rudimentary Python-based IDS using Scapy 
 </p>
 
