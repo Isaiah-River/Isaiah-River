@@ -86,6 +86,7 @@
 ![YAML](https://img.shields.io/badge/YAML%20-%20YAML?style=for-the-badge&logo=yaml&logoColor=%23FFF&color=%23CB171E)
 ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux%20-%20Rocky%20Linux?style=for-the-badge&logo=rockylinux&logoColor=%23fff&color=%2310B981)
 ![Git](https://img.shields.io/badge/Git%20-%20Git?style=for-the-badge&logo=git&logoColor=%23fff&color=%23F05032)
+![Google Cloud API](https://img.shields.io/badge/Google%20Cloud%20API-Google%20Cloud%20API?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
 
 
 
