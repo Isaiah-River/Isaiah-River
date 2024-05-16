@@ -25,8 +25,7 @@
 </h2>
 <p>
   • <img src=https://i.imgur.com/iiHw6Kz.png> Currently revamping my GitHub <br>
-  • 🌐 Developing a <a href="https://inaccessibility-at-champlain.tumblr.com/">digital humanities webpage</a> for my COR-304 class<br>
-  • 🔍 Developing a rudimentary Python-based IDS using Scapy 
+  • 📚 Onboarding at the Leahy Center for a Dev Ops Researcher position
 </p>
 
 
@@ -48,10 +47,10 @@
 <h3>Year Two:</h3>
 
 - [x] SYS-255: Sysadmin & Net Services I </br>
-- [ ] SYS-265: Sysadmin & Net Services II </br>
-- [ ] SEC-260: Web and Applications Security </br>
-- [ ] SYS-320: Automation and Scripting </br>
-- [ ] CSI-260: Advanced Python </br>
+- [x] SYS-265: Sysadmin & Net Services II </br>
+- [x] SEC-260: Web and Applications Security </br>
+- [x] SYS-320: Automation and Scripting </br>
+- [x] CSI-260: Advanced Python </br>
 
 
 <!-- Tech Stack -->
