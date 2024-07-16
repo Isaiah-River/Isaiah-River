@@ -9,7 +9,7 @@
 </h2>
 
 <p>
-  My name is Isaiah River, I am a cybersecurity student attending Champlain College. I grew up off the grid in the middle of the woods in the middle of nowhere. <br> <br>
+  Howdy! My name is Isaiah River, I am a Computer Networking and Cybersecurity student attending Champlain College. I grew up off the grid, in the middle of the woods, in the middle of nowhere. <br> <br>
   My hobbies include: <br>
   • 🛹 Longboarding <br>
   • 🥾 Hiking <br>
