@@ -25,7 +25,7 @@
 </h2>
 <p>
   • <img src=https://i.imgur.com/iiHw6Kz.png> Currently revamping my GitHub <br>
-  • 📚 Onboarding at the Leahy Center for a Dev Ops Researcher position
+  • 🔨 Rebuilding RangeControl, migrating most of its functionality from vSphere to Proxmox.
 </p>
 
 
