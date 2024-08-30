@@ -31,7 +31,7 @@
 
 <!-- Noteable Classes -->
 <h2>
-  🖥️ Noteable Classes:
+  🖥️ Notable Classes:
 </h2>
 
 <h3>Year One:</h3>
@@ -52,6 +52,9 @@
 - [x] SYS-320: Automation and Scripting </br>
 - [x] CSI-260: Advanced Python </br>
 
+<h3>Year Three:</h3>
+- [ ] CRJ-225: The Law of Searching, Seizing and Using Digital Evidence
+- [ ] NET-330: Network Design
 
 <!-- Tech Stack -->
 <h2>
