@@ -53,6 +53,7 @@
 - [x] CSI-260: Advanced Python </br>
 
 <h3>Year Three:</h3>
+
 - [ ] CRJ-225: The Law of Searching, Seizing and Using Digital Evidence
 - [ ] NET-330: Network Design
 
@@ -128,15 +129,3 @@
 </p>
 
 -->
-
-
-
-
-
-
-
-
-
-
-
-
