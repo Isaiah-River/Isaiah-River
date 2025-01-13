@@ -73,6 +73,19 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal%20-%20Windows%20Terminal?style=for-the-badge&logo=windowsterminal&color=%234D4D4D)
 ![Markdown](https://img.shields.io/badge/Markdown%20-%20Markdown?style=for-the-badge&logo=markdown&color=%23000000)
 ![Apache](https://img.shields.io/badge/Docker%20-%20Docker?style=for-the-badge&logo=apache&logoColor=%23fff&color=%23D22128)
+![Docker](https://img.shields.io/badge/Docker%20-%20Docker?style=for-the-badge&logo=docker&logoColor=%23fff&color=%232496ED)
+![Ansible](https://img.shields.io/badge/Ansible%20-%20Ansible?style=for-the-badge&logo=ansible&logoColor=%23fff&color=%23EE0000)
+![PHP](https://img.shields.io/badge/PHP%20-%20PHP?style=for-the-badge&logo=php&logoColor=%23FFF&color=%23777BB4)
+![YAML](https://img.shields.io/badge/YAML%20-%20YAML?style=for-the-badge&logo=yaml&logoColor=%23FFF&color=%23CB171E)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux%20-%20Rocky%20Linux?style=for-the-badge&logo=rockylinux&logoColor=%23fff&color=%2310B981)
+![Git](https://img.shields.io/badge/Git%20-%20Git?style=for-the-badge&logo=git&logoColor=%23fff&color=%23F05032)
+![Google Cloud API](https://img.shields.io/badge/Google%20Cloud%20API-Google%20Cloud%20API?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
+
+
+<h2>
+  🎨 Art Stack:
+</h2>
+
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop%20-%20Adobe%20Photoshop?style=for-the-badge&logo=adobephotoshop&logoColor=%23FFF&color=%2331A8FF)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator%20-%20Adobe%20Illustrator?style=for-the-badge&logo=adobeillustrator&logoColor=%23fff&color=%23FF9A00)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign%20-%20Adobe%20InDesign?style=for-the-badge&logo=adobeindesign&logoColor=%23fff&color=%23FF3366)
@@ -80,17 +93,9 @@
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom%20-%20Adobe%20Lightroom?style=for-the-badge&logo=adobexd&logoColor=%23fff&color=%2331A8FF)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects%20-%20Adobe%20After%20Effects?style=for-the-badge&logo=adobeaftereffects&logoColor=%23fff&color=%239999FF)
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver%20-%20Adobe%20Dreamweaver?style=for-the-badge&logo=adobedreamweaver&logoColor=%23fff&color=%23FF61F6)
-![Docker](https://img.shields.io/badge/Docker%20-%20Docker?style=for-the-badge&logo=docker&logoColor=%23fff&color=%232496ED)
-![Ansible](https://img.shields.io/badge/Ansible%20-%20Ansible?style=for-the-badge&logo=ansible&logoColor=%23fff&color=%23EE0000)
 ![Rainmeter](https://img.shields.io/badge/Rainmeter%20-%20Rainmeter?style=for-the-badge&logo=rainmeter&logoColor=%23fff&color=%2319519B)
 ![Aseprite](https://img.shields.io/badge/Aseprite%20-%20Aseprite?style=for-the-badge&logo=aseprite&logoColor=%23fff&color=%237D929E)
 ![Blender](https://img.shields.io/badge/Blender%20-%20Blender?style=for-the-badge&logo=blender&logoColor=%23fff&color=%23E87D0D)
-![PHP](https://img.shields.io/badge/PHP%20-%20PHP?style=for-the-badge&logo=php&logoColor=%23FFF&color=%23777BB4)
-![YAML](https://img.shields.io/badge/YAML%20-%20YAML?style=for-the-badge&logo=yaml&logoColor=%23FFF&color=%23CB171E)
-![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux%20-%20Rocky%20Linux?style=for-the-badge&logo=rockylinux&logoColor=%23fff&color=%2310B981)
-![Git](https://img.shields.io/badge/Git%20-%20Git?style=for-the-badge&logo=git&logoColor=%23fff&color=%23F05032)
-![Google Cloud API](https://img.shields.io/badge/Google%20Cloud%20API-Google%20Cloud%20API?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
-
 
 
 
