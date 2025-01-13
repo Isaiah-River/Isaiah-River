@@ -48,15 +48,15 @@
 
 - [x] SYS-255: Sysadmin & Net Services I </br>
 - [x] SYS-265: Sysadmin & Net Services II </br>
-- [x] SEC-260: Web and Applications Security </br>
-- [x] SYS-320: Automation and Scripting </br>
+- [x] SEC-260: Web & Applications Security </br>
+- [x] SYS-320: Automation & Scripting </br>
 - [x] CSI-260: Advanced Python </br>
 
 <h3>Year Three:</h3>
 
-- [ ] CRJ-225: The Law of Searching, Seizing and Using Digital Evidence
-- [ ] NET-330: Network Design
-
+- [x] NET-330: Network Design
+- [ ] SEC-350: Enterprise & Network Security Controls
+- [ ] SYS-360: Cloud Administration & Deployment
 <!-- Tech Stack -->
 <h2>
   👨‍💻 Tech Stack:
