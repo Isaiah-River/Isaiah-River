@@ -81,7 +81,7 @@
 ![Git](https://img.shields.io/badge/Git%20-%20Git?style=for-the-badge&logo=git&logoColor=%23fff&color=%23F05032)
 ![Google Cloud API](https://img.shields.io/badge/Google%20Cloud%20API-Google%20Cloud%20API?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
 
-
+<!-- Commented out for now
 <h2>
   🎨 Art Stack:
 </h2>
@@ -98,7 +98,7 @@
 ![Blender](https://img.shields.io/badge/Blender%20-%20Blender?style=for-the-badge&logo=blender&logoColor=%23fff&color=%23E87D0D)
 
 
-
+-->
 <!-- Commented out for now
 <p align="center";>
   <img src="https://img.shields.io/badge/Windows%20-%20Windows?style=for-the-badge&logo=windows&logoColor=Red&color=%23357EC7";>
