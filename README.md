@@ -13,8 +13,8 @@
   My hobbies include: <br>
   • 🛹 Longboarding <br>
   • 🥾 Hiking <br>
-  • 🎨 Art & graphic design <br>
-  • 🎵 Bass guitar & ukulele <br>
+  • 🎨 Anything art
+  • 🎵 Anything stringed
   • ⛏️ Minecraft <br>
 </p>
 
