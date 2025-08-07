@@ -41,22 +41,28 @@
 - [x] NET-150: Network Fundamentals </br>
 - [x] CSI-160: Python Programming </br>
 - [x] NET-215: Network Protocols </br>
-- [x] SEC-250: Computer & Network Security </br>
-
 
 <h3>Year Two:</h3>
 
+- [x] SEC-250: Computer & Network Security </br>
 - [x] SYS-255: Sysadmin & Net Services I </br>
 - [x] SYS-265: Sysadmin & Net Services II </br>
-- [x] SEC-260: Web & Applications Security </br>
-- [x] SYS-320: Automation & Scripting </br>
 - [x] CSI-260: Advanced Python </br>
 
 <h3>Year Three:</h3>
 
+- [x] SEC-260: Web & Applications Security </br>
+- [x] SYS-320: Automation & Scripting </br>
 - [x] NET-330: Network Design
-- [ ] SEC-350: Enterprise & Network Security Controls
-- [ ] SYS-360: Cloud Administration & Deployment
+- [x] SEC-350: Enterprise & Network Security Controls
+
+
+<h3>Year Four:</h3>
+
+- [x] SYS-360: Cloud Administration & Deployment
+- [ ] SEC-440: Systems Security
+- [ ] SEC-480: Advanced Topics in Cyber Security
+- [ ] SYS-350: Enterprise Virtualization
 <!-- Tech Stack -->
 <h2>
   👨‍💻 Tech Stack:
