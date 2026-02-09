@@ -60,9 +60,9 @@
 <h3>Year Four:</h3>
 
 - [x] SYS-360: Cloud Administration & Deployment
-- [ ] SEC-440: Systems Security
-- [ ] SEC-480: Advanced Topics in Cyber Security
-- [ ] SYS-350: Enterprise Virtualization
+- [x] SEC-440: Systems Security
+- [x] SEC-480: Advanced Topics in Cyber Security
+- [x] SYS-350: Enterprise Virtualization
 <!-- Tech Stack -->
 <h2>
   👨‍💻 Tech Stack:
