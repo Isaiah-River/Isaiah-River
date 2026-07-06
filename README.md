@@ -25,8 +25,8 @@
 </h2>
 <p>
   • <img src=https://i.imgur.com/iiHw6Kz.png> Currently revamping my GitHub. <br>
-  • 🔨 Rebuilding RangeControl, migrating most of its functionality from vSphere to Proxmox.
-  • 🌎 Developing my <a href=https://isaiah-river.github.io/>portfolio page</a>. <br>
+  • 🔨 Rebuilding RangeControl, migrating most of its functionality from vSphere to Proxmox. <br>
+  • 🌎 Developing my <a href=https://isaiah-river.github.io/>portfolio page</a>.
 </p>
 
 
