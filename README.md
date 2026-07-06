@@ -24,9 +24,9 @@
   🏗️ Personal projects:
 </h2>
 <p>
-  • <img src=https://i.imgur.com/iiHw6Kz.png> Currently revamping my GitHub <br>
+  • <img src=https://i.imgur.com/iiHw6Kz.png> Currently revamping my GitHub. <br>
   • 🔨 Rebuilding RangeControl, migrating most of its functionality from vSphere to Proxmox.
-  • 🌎 Developing my <a href=https://isaiah-river.github.io/>portfolio page</a>. 
+  • 🌎 Developing my <a href=https://isaiah-river.github.io/>portfolio page</a>. <br>
 </p>
 
 
